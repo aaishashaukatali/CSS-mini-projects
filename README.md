@@ -1,35 +1,35 @@
 ## CSS Mini Projects
 
-This repository contains small CSS projects that demonstrate core frontend design and styling concepts such as:
+This repository contains small CSS projects that demonstrate core frontend design and styling concepts, including:
 
-Layouts, Flexbox Layout, Animation, Transition, and Responsive Design.<br><br>
+Layouts, Flexbox, Animation, Transition, Hover Effects, and Responsive Design.<br><br>
 
 
 ### 1. Sidebar 🌐
 
 A responsive sidebar navigation built with HTML and CSS.
 
-It demonstaretes **Flexbox Lauout, Hover Effects** and **Clean Navigation Desgin** suitable for modren web apps.
+Features: **Flexbox, Hover Effects, Transitions,** and **Clean Navigation Design** suitable for modern web apps.
 
-[Sidebar Navigation →](https://aaishashaukatali.github.io/CSS-mini-projects/sidebar/sidebar.html)<br><br>
+[View Project →](https://aaishashaukatali.github.io/CSS-mini-projects/sidebar/sidebar.html)<br><br>
 
 
 ### 2. Spotify Clone 🎵
 
-A sleek Spotify-insperied UI clone built purely with HTML and CSS.
+A sleek Spotify-inspired UI clone built purely with HTML and CSS.
 
-It showcases **Responsive Design** and **Flexbox Lauout**.
+Features: **Responsive Design**.
 
-[Spotify Clone →](https://aaishashaukatali.github.io/CSS-mini-projects/spotify-clone/spotify_clone.html)<br><br>
+[View Project →](https://aaishashaukatali.github.io/CSS-mini-projects/spotify-clone/spotify_clone.html)<br><br>
 
 
-### 2. Bootstrap Card 📝
+### 3. Bootstrap Card 📝
 
-A modren card componenet built using boostrap.
+A modern card component built using Bootstrap.
 
-It showcases **Flexbox Lauout, Hover Effects, Responsive Design, Utility Classes** and **Flexbox Lauout**.
+Features: **Utility Classes**.
 
-[Bootstrap Card →](https://aaishashaukatali.github.io/CSS-mini-projects/bootstrap.html)<br><br>
+[View Project →](https://aaishashaukatali.github.io/CSS-mini-projects/bootstrap.html)<br><br>
 
 
 
